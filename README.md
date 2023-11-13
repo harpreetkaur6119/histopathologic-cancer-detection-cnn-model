@@ -9,5 +9,5 @@ TensorFlow library is used for the deep learning. In this project, we will be us
 # Results
 ![image](https://github.com/harpreetkaur6119/histopathologic-cancer-detection-cnn-model/assets/64327716/ca914667-2459-459e-b223-3fa8c252486d)
 
-Predictions
+# Predictions
 ![image](https://github.com/harpreetkaur6119/histopathologic-cancer-detection-cnn-model/assets/64327716/8edb3519-6e07-4385-ae50-211bf98277e4)
